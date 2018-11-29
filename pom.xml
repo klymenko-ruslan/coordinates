@@ -8,7 +8,7 @@
   <name>coordinates Maven Webapp</name>
   <url>http://maven.apache.org</url>
     <properties>
-        <version.spring>4.1.4.RELEASE</version.spring>
+        <version.spring>4.3.15.RELEASE</version.spring>
     </properties>
     <dependencies>
         <dependency>
@@ -76,7 +76,7 @@
         <dependency>
             <groupId>com.fasterxml.jackson.core</groupId>
             <artifactId>jackson-databind</artifactId>
-            <version>2.5.0</version>
+            <version>2.9.7</version>
         </dependency>
         <dependency>
             <groupId>taglibs</groupId>
