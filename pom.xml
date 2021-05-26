@@ -8,7 +8,7 @@
   <name>coordinates Maven Webapp</name>
   <url>http://maven.apache.org</url>
     <properties>
-        <version.spring>4.1.4.RELEASE</version.spring>
+        <version.spring>5.2.15.RELEASE</version.spring>
     </properties>
     <dependencies>
         <dependency>
