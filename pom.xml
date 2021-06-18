@@ -8,7 +8,7 @@
   <name>coordinates Maven Webapp</name>
   <url>http://maven.apache.org</url>
     <properties>
-        <version.spring>4.1.4.RELEASE</version.spring>
+        <version.spring>5.2.15.RELEASE</version.spring>
     </properties>
     <dependencies>
         <dependency>
@@ -91,7 +91,7 @@
         <dependency>
             <groupId>org.hibernate</groupId>
             <artifactId>hibernate-entitymanager</artifactId>
-            <version>4.3.8.Final</version>
+            <version>5.4.24.Final</version>
         </dependency>
     </dependencies>
   <build>
